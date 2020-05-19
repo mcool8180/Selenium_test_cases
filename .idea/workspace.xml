@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b2f536d-6da8-4d66-bd24-3edde1397181" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Jenkinsfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/briozing/automation/helpers/ValidationHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/briozing/automation/helpers/ValidationHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/briozing/automation/pageobjects/BlogPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/briozing/automation/pageobjects/BlogPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/briozing/automation/pageobjects/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/briozing/automation/pageobjects/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/briozing/automation/suites/UITests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/briozing/automation/suites/UITests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../countryProject" beforeDir="false" afterPath="$PROJECT_DIR$/../countryProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-restAssured/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-restAssured/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-restAssured/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-restAssured/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-restAssured/src/main/java/com/briozing/employee/models/EmployeeRequestVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-restAssured/src/main/java/com/briozing/employee/models/EmployeeRequestVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employee-restAssured/src/main/java/com/briozing/employee/models/EmployeeResponseVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../employee-restAssured/src/main/java/com/briozing/employee/models/EmployeeResponseVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../employees" beforeDir="false" afterPath="$PROJECT_DIR$/../employees" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../qaint.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-assured-template 1" beforeDir="false" afterPath="$PROJECT_DIR$/../rest-assured-template 1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rest-assured-template-new" beforeDir="false" afterPath="$PROJECT_DIR$/../rest-assured-template-new" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/base/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/base/DriverSetup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/base/DriverType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/base/WebDriverFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/base/WebDriverThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/config/Configuration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/config/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/factory/Log4JFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/helpers/ValidationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/listeners/DefectInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/listeners/MethodListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/listeners/RetryFailedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/listeners/RetryListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/pageobjects/BlogPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/pageobjects/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/utilities/AppAssert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/utilities/CommonMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/utilities/DataManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/utilities/MainUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/briozing/automation/utilities/TestConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/files/dummy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/briozing/automation/suites/UITests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/resources/extent.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/resources/html-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/resources/klov.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stale_outputs_checked" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1btP2O4KkM6m2MEU9HGBZvB8QtF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b2f536d-6da8-4d66-bd24-3edde1397181" name="Default Changelist" comment="" />
+      <created>1589448208987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589448208987</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589462578583">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="673" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1044@0.0.1920.1044" timestamp="1589462578583" />
+    <state x="457" y="155" key="SettingsEditor" timestamp="1589450605697">
+      <screen x="0" y="0" width="1920" height="1044" />
+    </state>
+    <state x="457" y="155" key="SettingsEditor/0.0.1920.1044@0.0.1920.1044" timestamp="1589450605697" />
+  </component>
+</project>

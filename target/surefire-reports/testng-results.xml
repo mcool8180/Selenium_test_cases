@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[START TEST : init]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : init]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_blog_title]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_blog_title]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : closeDriverObjects]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : closeDriverObjects]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="40264" started-at="2020-05-18T18:16:34Z" finished-at="2020-05-18T18:17:14Z">
+    <groups>
+      <group name="Briozing48">
+        <method signature="UITests.verify_blog_title()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_blog_title" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- Briozing48 -->
+      <group name="sanity">
+        <method signature="UITests.verify_blog_title()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_blog_title" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Surefire test" duration-ms="40264" started-at="2020-05-18T18:16:34Z" finished-at="2020-05-18T18:17:14Z">
+      <class name="com.briozing.automation.suites.UITests">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="init" is-config="true" duration-ms="92" started-at="2020-05-18T23:46:34Z" finished-at="2020-05-18T23:46:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : init]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verify_blog_title()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_blog_title" duration-ms="40207" started-at="2020-05-18T23:46:34Z" description="Verify Blog Page" finished-at="2020-05-18T23:47:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_blog_title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_blog_title -->
+        <test-method status="PASS" signature="closeDriverObjects()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="closeDriverObjects" is-config="true" duration-ms="218" started-at="2020-05-18T23:47:14Z" finished-at="2020-05-18T23:47:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : closeDriverObjects]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeDriverObjects -->
+      </class> <!-- com.briozing.automation.suites.UITests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
