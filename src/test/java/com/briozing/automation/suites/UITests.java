@@ -31,7 +31,7 @@ public class UITests extends BaseTest {
         }
     }
 
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyConnectionWithUs","Home_Page"}, description = "Verify connection with us")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyConnectionWithUs","homePage"}, description = "Verify connection with us")
     public void verify_connection_with_us(){
         try{
             HomePage homePageObj = new HomePage();
@@ -43,7 +43,7 @@ public class UITests extends BaseTest {
         }
     }
 
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyName","Home_Page"}, description = "Verify Name")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyName","homePage"}, description = "Verify Name")
     public void verify_connection_with_us_name(){
         try{
             HomePage homePageObj = new HomePage();
@@ -55,7 +55,7 @@ public class UITests extends BaseTest {
         }
     }
 
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyFirstNameBox","Home_Page"}, description = "Verify First Name")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyFirstNameBox","homePage"}, description = "Verify First Name")
     public void verify_connection_with_us_name_first(){
         try{
             HomePage homePageObj = new HomePage();
@@ -67,7 +67,7 @@ public class UITests extends BaseTest {
         }
     }
 
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyLastNameBox","Home_Page"}, description = "Verify Last Name")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyLastNameBox","homePage"}, description = "Verify Last Name")
     public void verify_connection_with_us_name_last(){
         try{
             HomePage homePageObj = new HomePage();
@@ -79,7 +79,7 @@ public class UITests extends BaseTest {
         }
     }
 
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyEmailBox","Home_Page"}, description = "Verify Email")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyEmailBox","homePage"}, description = "Verify Email")
     public void verify_connection_with_us_email(){
         try{
             HomePage homePageObj = new HomePage();
@@ -90,7 +90,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPhoneNumberBox","Home_Page"}, description = "Verify Phone number")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPhoneNumberBox","homePage"}, description = "Verify Phone number")
     public void verify_connection_with_us_PhoneNumber(){
         try{
             HomePage homePageObj = new HomePage();
@@ -101,7 +101,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyMessageBox","Home_Page"}, description = "Verify Message")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyMessageBox","homePage"}, description = "Verify Message")
     public void verify_connection_with_us_Message(){
         try{
             HomePage homePageObj = new HomePage();
@@ -112,7 +112,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifySubmitButton","Home_Page"}, description = "Verify Submit button")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifySubmitButton","homePage"}, description = "Verify Submit button")
     public void verify_connection_with_us_Submit(){
         try{
             HomePage homePageObj = new HomePage();
@@ -123,7 +123,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientQuickHeal","Home_Page"}, description = "Verify Quickheal client")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientQuickHeal","homePage"}, description = "Verify Quickheal client")
     public void verify_clients_quickheal(){
         try{
             HomePage homePageObj = new HomePage();
@@ -134,7 +134,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientSapience","Home_Page"}, description = "Verify Sapience client")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientSapience","homePage"}, description = "Verify Sapience client")
     public void verify_clients_sapience(){
         try{
             HomePage homePageObj = new HomePage();
@@ -145,7 +145,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientDL","Home_Page"}, description = "Verify DL client")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientDL","homePage"}, description = "Verify DL client")
     public void verify_clients_DL(){
         try{
             HomePage homePageObj = new HomePage();
@@ -156,7 +156,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientCybrella","Home_Page"}, description = "Verify Cybrella client")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientCybrella","homePage"}, description = "Verify Cybrella client")
     public void verify_clients_cybrella(){
         try{
             HomePage homePageObj = new HomePage();
@@ -167,7 +167,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientVuclips","Home_Page"}, description = "Verify VUclips client")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientVuclips","homePage"}, description = "Verify VUclips client")
     public void verify_clients_vuclips(){
         try{
             HomePage homePageObj = new HomePage();
@@ -178,7 +178,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientA4technologies","Home_Page"}, description = "Verify A4 Technologies client")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyClientA4technologies","homePage"}, description = "Verify A4 Technologies client")
     public void verify_clients_a4technologies(){
         try{
             HomePage homePageObj = new HomePage();
@@ -189,7 +189,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyProductArchitechtureLogo","Home_Page"}, description = "Verify Product architechture logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyProductArchitechtureLogo","homePage"}, description = "Verify Product architechture logo")
     public void verify_product_architecture_logo(){
         try{
             HomePage homePageObj = new HomePage();
@@ -200,7 +200,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyAutomatedTestingLogo","Home_Page"}, description = "Verify Automated testing logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyAutomatedTestingLogo","homePage"}, description = "Verify Automated testing logo")
     public void verify_automated_testing_logo(){
         try{
             HomePage homePageObj = new HomePage();
@@ -211,7 +211,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyDevopsLogo","Home_Page"}, description = "Verify Devops logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyDevopsLogo","homePage"}, description = "Verify Devops logo")
     public void verify_devops_logo(){
         try{
             HomePage homePageObj = new HomePage();
@@ -222,7 +222,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyArrowDownLogo","Home_Page"}, description = "Verify Arrow down logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyArrowDownLogo","homePage"}, description = "Verify Arrow down logo")
     public void verify_homepage_arrowdown_logo(){
         try{
             HomePage homePageObj = new HomePage();
@@ -233,7 +233,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyArrowDownMotion","Home_Page"}, description = "Verify arrow down motion")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyArrowDownMotion","homePage"}, description = "Verify arrow down motion")
     public void verify_homepage_arrowdown_motion(){
         try{
             HomePage homePageObj = new HomePage();
@@ -244,7 +244,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyGetStartedButton","Home_Page"}, description = "Verify get started button")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyGetStartedButton","homePage"}, description = "Verify get started button")
     public void verify_get_started_button(){
         try{
             HomePage homePageObj = new HomePage();
@@ -255,7 +255,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyLogoReload","Home_Page"}, description = "Verify Logo to reload")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyLogoReload","homePage"}, description = "Verify Logo to reload")
     public void verify_briozing_logo_reload(){
         try{
             HomePage homePageObj = new HomePage();
@@ -266,7 +266,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingTop","Home_Page"}, description = "Verify Page is scrolling to top")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingTop","homePage"}, description = "Verify Page is scrolling to top")
     public void verify_pagescrolling_top(){
         try{
             HomePage homePageObj = new HomePage();
@@ -277,7 +277,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingClients","Home_Page"}, description = "Verify Page is scrolling to clients")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingClients","homePage"}, description = "Verify Page is scrolling to clients")
     public void verify_pagescrolling_clients(){
         try{
             HomePage homePageObj = new HomePage();
@@ -288,7 +288,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingCore","Home_Page"}, description = "Verify Page scrolling to core")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingCore","homePage"}, description = "Verify Page scrolling to core")
     public void verify_pagescrolling_core(){
         try{
             HomePage homePageObj = new HomePage();
@@ -299,7 +299,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingAbout","Home_Page"}, description = "Verify Page scrolling to about")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingAbout","homePage"}, description = "Verify Page scrolling to about")
     public void verify_pagescrolling_about(){
         try{
             HomePage homePageObj = new HomePage();
@@ -310,7 +310,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingFeatures","Home_Page"}, description = "Verify Page scrolling to features")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingFeatures","homePage"}, description = "Verify Page scrolling to features")
     public void verify_pagescrolling_features(){
         try{
             HomePage homePageObj = new HomePage();
@@ -321,7 +321,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingCta","Home_Page"}, description = "Verify Page scrolling to cta")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingCta","homePage"}, description = "Verify Page scrolling to cta")
     public void verify_pagescrolling_Cta(){
         try{
             HomePage homePageObj = new HomePage();
@@ -332,7 +332,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingTeam","Home_Page"}, description = "Verify Page scrolling to team")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingTeam","homePage"}, description = "Verify Page scrolling to team")
     public void verify_pagescrolling_Team(){
         try{
             HomePage homePageObj = new HomePage();
@@ -343,7 +343,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingBlog","Home_Page"}, description = "Verify page scrolling to blog")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyPageScrollingBlog","homePage"}, description = "Verify page scrolling to blog")
     public void verify_pagescrolling_Blog(){
         try{
             HomePage homePageObj = new HomePage();
@@ -368,7 +368,7 @@ public class UITests extends BaseTest {
 //        }
 //    }
 
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyDevopsLogo","Blog_page"}, description = "Verify Devops logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyDevopsLogo","blogPage"}, description = "Verify Devops logo")
     public void verify_blogDevops_logo(){
         try{
             HomePage homePage = new HomePage();
@@ -379,7 +379,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyAutomationLogo","Blog_page"}, description = "Verify Automation logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyAutomationLogo","blogPage"}, description = "Verify Automation logo")
     public void verify_blogAutomation_logo(){
         try{
             HomePage homePage = new HomePage();
@@ -390,7 +390,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyHelmLogo","Blog_page"}, description = "Verify Helm logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyHelmLogo","blogPage"}, description = "Verify Helm logo")
     public void verify_blogHelm_logo(){
         try{
             HomePage homePage = new HomePage();
@@ -401,7 +401,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyTerraformLogo","Blog_page"}, description = "Verify Terraform logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyTerraformLogo","blogPage"}, description = "Verify Terraform logo")
     public void verify_blogTerraform_logo(){
         try{
             HomePage homePage = new HomePage();
@@ -412,7 +412,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyCycleLogo","Blog_page"}, description = "Verify Cycle logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyCycleLogo","blogPage"}, description = "Verify Cycle logo")
     public void verify_blogCycle_logo(){
         try{
             HomePage homePage = new HomePage();
@@ -423,7 +423,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifySearchBox","Blog_page"}, description = "Verify Search box")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifySearchBox","blogPage"}, description = "Verify Search box")
     public void verify_searchBox(){
         try{
             HomePage homePage = new HomePage();
@@ -434,7 +434,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyBriozingLogo","Blog_page"}, description = "Verify Briozing logo")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyBriozingLogo","blogPage"}, description = "Verify Briozing logo")
     public void verify_briozingLogo(){
         try{
             HomePage homePage = new HomePage();
@@ -445,7 +445,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyEmail","Blog_page"}, description = "Verify Email")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "VerifyEmail","blogPage"}, description = "Verify Email")
     public void verify_Email(){
         try{
             HomePage homePage = new HomePage();
@@ -456,7 +456,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostDevops","Blog_page"}, description = "Verify Devops post")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostDevops","blogPage"}, description = "Verify Devops post")
     public void verify_post_title_devops(){
         try{
             HomePage homePage = new HomePage();
@@ -467,7 +467,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostAutomation","Blog_page"}, description = "Verify Automation post")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostAutomation","blogPage"}, description = "Verify Automation post")
     public void verify_post_title_automation(){
         try{
             HomePage homePage = new HomePage();
@@ -478,7 +478,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostHelm","Blog_page"}, description = "Verify Helm post")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostHelm","blogPage"}, description = "Verify Helm post")
     public void verify_post_title_helm(){
         try{
             HomePage homePage = new HomePage();
@@ -489,7 +489,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostGoogleCloud","Blog_page"}, description = "Verify Google Cloud post")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostGoogleCloud","blogPage"}, description = "Verify Google Cloud post")
     public void verify_post_title_googleCloud(){
         try{
             HomePage homePage = new HomePage();
@@ -500,7 +500,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostTerraform","Blog_page"}, description = "Verify Terraform post")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostTerraform","blogPage"}, description = "Verify Terraform post")
     public void verify_post_title_terraform(){
         try{
             HomePage homePage = new HomePage();
@@ -511,7 +511,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostCycle","Blog_page"}, description = "Verify Cycle post")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostCycle","blogPage"}, description = "Verify Cycle post")
     public void verify_post_title_Cycle(){
         try{
             HomePage homePage = new HomePage();
@@ -522,7 +522,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostMicroService","Blog_page"}, description = "Verify Micro service post")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostMicroService","blogPage"}, description = "Verify Micro service post")
     public void verify_post_title_microService(){
         try{
             HomePage homePage = new HomePage();
@@ -533,7 +533,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostDevelopersRole","Blog_page"}, description = "Verify Developers role post")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "PostDevelopersRole","blogPage"}, description = "Verify Developers role post")
     public void verify_post_title_developers_role(){
         try{
             HomePage homePage = new HomePage();
@@ -544,7 +544,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "RecentPost","Blog_page"}, description = "Verify Recent post")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "RecentPost","blogPage"}, description = "Verify Recent post")
     public void verify_recent_post(){
         try{
             HomePage homePage = new HomePage();
@@ -555,7 +555,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "ContactUs","Blog_page"}, description = "Verify Contact Us")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "ContactUs","blogPage"}, description = "Verify Contact Us")
     public void verify_contact_us(){
         try{
             HomePage homePage = new HomePage();
@@ -566,7 +566,7 @@ public class UITests extends BaseTest {
             AppAssert.assertTrue(false,ex.getMessage());
         }
     }
-    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "BlogTitle","Blog_page"}, description = "Verify Blog title")
+    @Test(groups = {TestConstants.TEST_GROUP_SANITY, "BlogTitle","blogPage"}, description = "Verify Blog title")
     public void verify_blog_title(){
         try{
             HomePage homePage = new HomePage();

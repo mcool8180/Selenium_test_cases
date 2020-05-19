@@ -2453,3 +2453,381 @@ INFO  MethodListener  - Result: Passed
 INFO  MethodListener  - ==========================================================================================
 INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
 INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  UITests  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  UITests  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  UITests  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_clients_a4technologies :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Client Cybrella displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_clients_a4technologies :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  UITests  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  UITests  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  UITests  - ====== SettingUp Suite Execution ======
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  - Verify not null Condition :[true]
+INFO  AssertLogger  -  Verify value of key portal.url should not null Condition :[true]
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : init :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_automated_testing_logo :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Automated Testing logo is displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_automated_testing_logo :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_briozing_logo_reload :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Briozing logo reloading Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_briozing_logo_reload :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_clients_DL :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Client DL displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_clients_DL :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_clients_a4technologies :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Client Cybrella displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_clients_a4technologies :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_clients_cybrella :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Client Cybrella displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_clients_cybrella :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_clients_quickheal :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Client Quickheal logo displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_clients_quickheal :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_clients_sapience :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Client Sapience displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_clients_sapience :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_clients_vuclips :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Client Cybrella displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_clients_vuclips :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_connection_with_us :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  - Connect with us displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_connection_with_us :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_connection_with_us_Message :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Submit button displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_connection_with_us_Message :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_connection_with_us_PhoneNumber :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  - Phone number displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_connection_with_us_PhoneNumber :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_connection_with_us_Submit :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Submit button displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_connection_with_us_Submit :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_connection_with_us_email :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Email displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_connection_with_us_email :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_connection_with_us_name :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  - Name displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_connection_with_us_name :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_connection_with_us_name_first :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  First Name displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_connection_with_us_name_first :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_connection_with_us_name_last :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Last Name displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_connection_with_us_name_last :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_devops_logo :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Devops logo is displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_devops_logo :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_get_started_button :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Get Started button is displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_get_started_button :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_homepage_arrowdown_logo :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Home page arrow down logo is displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_homepage_arrowdown_logo :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_homepage_arrowdown_motion :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Home page arrow down logo is in motion Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_homepage_arrowdown_motion :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_pagescrolling_Blog :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  click on page scrolling Blog shows Blog Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_pagescrolling_Blog :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_pagescrolling_Cta :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  click on page scrolling Cta shows Cta Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_pagescrolling_Cta :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_pagescrolling_Team :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  click on page scrolling Team shows Team Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_pagescrolling_Team :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_pagescrolling_about :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  click on page scrolling About shows About Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_pagescrolling_about :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_pagescrolling_clients :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  click on page scrolling clients shows clients Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_pagescrolling_clients :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_pagescrolling_core :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  click on page scrolling Core shows Core Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_pagescrolling_core :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_pagescrolling_features :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  click on page scrolling Features shows Features Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_pagescrolling_features :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_pagescrolling_top :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  click on page scrolling top it goes to top Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_pagescrolling_top :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : verify_product_architecture_logo :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  AssertLogger  -  Product Architecture logo is displayed Condition :[true]
+INFO  ValidationHelper  - Current Url:https://briozing.com/
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : verify_product_architecture_logo :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: START TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - Result: Passed
+INFO  MethodListener  - ==========================================================================================
+INFO  MethodListener  - ::::::: END TEST : closeDriverObjects :::::::::
+INFO  MethodListener  - ==========================================================================================

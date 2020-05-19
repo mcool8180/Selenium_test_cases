@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="29" passed="29">
   <reporter-output>
     <line>
       <![CDATA[START TEST : init]]>
@@ -8,10 +8,178 @@
       <![CDATA[END TEST : init]]>
     </line>
     <line>
-      <![CDATA[START TEST : verify_blog_title]]>
+      <![CDATA[START TEST : verify_automated_testing_logo]]>
     </line>
     <line>
-      <![CDATA[END TEST : verify_blog_title]]>
+      <![CDATA[END TEST : verify_automated_testing_logo]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_briozing_logo_reload]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_briozing_logo_reload]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_clients_DL]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_clients_DL]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_clients_a4technologies]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_clients_a4technologies]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_clients_cybrella]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_clients_cybrella]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_clients_quickheal]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_clients_quickheal]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_clients_sapience]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_clients_sapience]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_clients_vuclips]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_clients_vuclips]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_connection_with_us]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_connection_with_us]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_connection_with_us_Message]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_connection_with_us_Message]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_connection_with_us_PhoneNumber]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_connection_with_us_PhoneNumber]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_connection_with_us_Submit]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_connection_with_us_Submit]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_connection_with_us_email]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_connection_with_us_email]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_connection_with_us_name]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_connection_with_us_name]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_connection_with_us_name_first]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_connection_with_us_name_first]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_connection_with_us_name_last]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_connection_with_us_name_last]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_devops_logo]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_devops_logo]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_get_started_button]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_get_started_button]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_homepage_arrowdown_logo]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_homepage_arrowdown_logo]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_homepage_arrowdown_motion]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_homepage_arrowdown_motion]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_pagescrolling_Blog]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_pagescrolling_Blog]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_pagescrolling_Cta]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_pagescrolling_Cta]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_pagescrolling_Team]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_pagescrolling_Team]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_pagescrolling_about]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_pagescrolling_about]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_pagescrolling_clients]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_pagescrolling_clients]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_pagescrolling_core]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_pagescrolling_core]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_pagescrolling_features]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_pagescrolling_features]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_pagescrolling_top]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_pagescrolling_top]]>
+    </line>
+    <line>
+      <![CDATA[START TEST : verify_product_architecture_logo]]>
+    </line>
+    <line>
+      <![CDATA[END TEST : verify_product_architecture_logo]]>
     </line>
     <line>
       <![CDATA[START TEST : closeDriverObjects]]>
@@ -20,32 +188,371 @@
       <![CDATA[END TEST : closeDriverObjects]]>
     </line>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="40264" started-at="2020-05-18T18:16:34Z" finished-at="2020-05-18T18:17:14Z">
+  <suite name="Surefire suite" duration-ms="380037" started-at="2020-05-19T16:11:14Z" finished-at="2020-05-19T16:17:34Z">
     <groups>
-      <group name="Briozing48">
-        <method signature="UITests.verify_blog_title()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_blog_title" class="com.briozing.automation.suites.UITests"/>
-      </group> <!-- Briozing48 -->
+      <group name="VerifyPageScrollingBlog">
+        <method signature="UITests.verify_pagescrolling_Blog()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Blog" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyPageScrollingBlog -->
+      <group name="VerifyPageScrollingCore">
+        <method signature="UITests.verify_pagescrolling_core()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_core" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyPageScrollingCore -->
+      <group name="VerifyMessageBox">
+        <method signature="UITests.verify_connection_with_us_Message()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_Message" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyMessageBox -->
+      <group name="VerifyPhoneNumberBox">
+        <method signature="UITests.verify_connection_with_us_PhoneNumber()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_PhoneNumber" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyPhoneNumberBox -->
       <group name="sanity">
-        <method signature="UITests.verify_blog_title()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_blog_title" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_automated_testing_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_automated_testing_logo" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_briozing_logo_reload()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_briozing_logo_reload" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_DL()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_DL" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_a4technologies()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_a4technologies" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_cybrella()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_cybrella" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_quickheal()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_quickheal" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_sapience()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_sapience" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_vuclips()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_vuclips" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_Message()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_Message" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_PhoneNumber()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_PhoneNumber" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_Submit()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_Submit" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_email()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_email" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_name()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_name_first()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name_first" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_name_last()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name_last" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_devops_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_devops_logo" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_get_started_button()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_get_started_button" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_homepage_arrowdown_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_homepage_arrowdown_logo" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_homepage_arrowdown_motion()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_homepage_arrowdown_motion" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_Blog()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Blog" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_Cta()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Cta" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_Team()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Team" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_about()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_about" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_clients()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_clients" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_core()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_core" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_features()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_features" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_top()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_top" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_product_architecture_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_product_architecture_logo" class="com.briozing.automation.suites.UITests"/>
       </group> <!-- sanity -->
+      <group name="VerifyConnectionWithUs">
+        <method signature="UITests.verify_connection_with_us()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyConnectionWithUs -->
+      <group name="Home_Page">
+        <method signature="UITests.verify_automated_testing_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_automated_testing_logo" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_briozing_logo_reload()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_briozing_logo_reload" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_DL()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_DL" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_a4technologies()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_a4technologies" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_cybrella()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_cybrella" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_quickheal()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_quickheal" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_sapience()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_sapience" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_clients_vuclips()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_vuclips" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_Message()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_Message" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_PhoneNumber()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_PhoneNumber" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_Submit()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_Submit" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_email()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_email" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_name()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_name_first()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name_first" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_connection_with_us_name_last()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name_last" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_devops_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_devops_logo" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_get_started_button()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_get_started_button" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_homepage_arrowdown_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_homepage_arrowdown_logo" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_homepage_arrowdown_motion()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_homepage_arrowdown_motion" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_Blog()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Blog" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_Cta()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Cta" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_Team()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Team" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_about()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_about" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_clients()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_clients" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_core()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_core" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_features()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_features" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_pagescrolling_top()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_top" class="com.briozing.automation.suites.UITests"/>
+        <method signature="UITests.verify_product_architecture_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_product_architecture_logo" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- Home_Page -->
+      <group name="VerifyProductArchitechtureLogo">
+        <method signature="UITests.verify_product_architecture_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_product_architecture_logo" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyProductArchitechtureLogo -->
+      <group name="VerifyLogoReload">
+        <method signature="UITests.verify_briozing_logo_reload()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_briozing_logo_reload" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyLogoReload -->
+      <group name="VerifyFirstNameBox">
+        <method signature="UITests.verify_connection_with_us_name_first()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name_first" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyFirstNameBox -->
+      <group name="VerifyGetStartedButton">
+        <method signature="UITests.verify_get_started_button()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_get_started_button" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyGetStartedButton -->
+      <group name="VerifyPageScrollingAbout">
+        <method signature="UITests.verify_pagescrolling_about()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_about" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyPageScrollingAbout -->
+      <group name="VerifyPageScrollingTeam">
+        <method signature="UITests.verify_pagescrolling_Team()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Team" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyPageScrollingTeam -->
+      <group name="VerifyLastNameBox">
+        <method signature="UITests.verify_connection_with_us_name_last()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name_last" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyLastNameBox -->
+      <group name="VerifyClientA4technologies">
+        <method signature="UITests.verify_clients_a4technologies()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_a4technologies" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyClientA4technologies -->
+      <group name="VerifyEmailBox">
+        <method signature="UITests.verify_connection_with_us_email()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_email" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyEmailBox -->
+      <group name="VerifyDevopsLogo">
+        <method signature="UITests.verify_devops_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_devops_logo" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyDevopsLogo -->
+      <group name="VerifyPageScrollingClients">
+        <method signature="UITests.verify_pagescrolling_clients()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_clients" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyPageScrollingClients -->
+      <group name="VerifyClientSapience">
+        <method signature="UITests.verify_clients_sapience()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_sapience" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyClientSapience -->
+      <group name="VerifyArrowDownMotion">
+        <method signature="UITests.verify_homepage_arrowdown_motion()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_homepage_arrowdown_motion" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyArrowDownMotion -->
+      <group name="VerifyAutomatedTestingLogo">
+        <method signature="UITests.verify_automated_testing_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_automated_testing_logo" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyAutomatedTestingLogo -->
+      <group name="VerifyClientQuickHeal">
+        <method signature="UITests.verify_clients_quickheal()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_quickheal" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyClientQuickHeal -->
+      <group name="VerifyPageScrollingTop">
+        <method signature="UITests.verify_pagescrolling_top()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_top" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyPageScrollingTop -->
+      <group name="VerifyArrowDownLogo">
+        <method signature="UITests.verify_homepage_arrowdown_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_homepage_arrowdown_logo" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyArrowDownLogo -->
+      <group name="VerifyName">
+        <method signature="UITests.verify_connection_with_us_name()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyName -->
+      <group name="VerifySubmitButton">
+        <method signature="UITests.verify_connection_with_us_Submit()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_Submit" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifySubmitButton -->
+      <group name="VerifyClientDL">
+        <method signature="UITests.verify_clients_DL()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_DL" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyClientDL -->
+      <group name="VerifyPageScrollingFeatures">
+        <method signature="UITests.verify_pagescrolling_features()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_features" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyPageScrollingFeatures -->
+      <group name="VerifyClientVuclips">
+        <method signature="UITests.verify_clients_vuclips()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_vuclips" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyClientVuclips -->
+      <group name="VerifyPageScrollingCta">
+        <method signature="UITests.verify_pagescrolling_Cta()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Cta" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyPageScrollingCta -->
+      <group name="VerifyClientCybrella">
+        <method signature="UITests.verify_clients_cybrella()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_cybrella" class="com.briozing.automation.suites.UITests"/>
+      </group> <!-- VerifyClientCybrella -->
     </groups>
-    <test name="Surefire test" duration-ms="40264" started-at="2020-05-18T18:16:34Z" finished-at="2020-05-18T18:17:14Z">
+    <test name="Surefire test" duration-ms="380037" started-at="2020-05-19T16:11:14Z" finished-at="2020-05-19T16:17:34Z">
       <class name="com.briozing.automation.suites.UITests">
-        <test-method status="PASS" signature="init()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="init" is-config="true" duration-ms="92" started-at="2020-05-18T23:46:34Z" finished-at="2020-05-18T23:46:34Z">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="init" is-config="true" duration-ms="107" started-at="2020-05-19T21:41:13Z" finished-at="2020-05-19T21:41:14Z">
           <reporter-output>
             <line>
               <![CDATA[END TEST : init]]>
             </line>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="verify_blog_title()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_blog_title" duration-ms="40207" started-at="2020-05-18T23:46:34Z" description="Verify Blog Page" finished-at="2020-05-18T23:47:14Z">
+        <test-method status="PASS" signature="verify_automated_testing_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_automated_testing_logo" duration-ms="37776" started-at="2020-05-19T21:41:14Z" description="Verify Automated testing logo" finished-at="2020-05-19T21:41:51Z">
           <reporter-output>
             <line>
-              <![CDATA[END TEST : verify_blog_title]]>
+              <![CDATA[END TEST : verify_automated_testing_logo]]>
             </line>
           </reporter-output>
-        </test-method> <!-- verify_blog_title -->
-        <test-method status="PASS" signature="closeDriverObjects()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="closeDriverObjects" is-config="true" duration-ms="218" started-at="2020-05-18T23:47:14Z" finished-at="2020-05-18T23:47:14Z">
+        </test-method> <!-- verify_automated_testing_logo -->
+        <test-method status="PASS" signature="verify_briozing_logo_reload()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_briozing_logo_reload" duration-ms="11994" started-at="2020-05-19T21:41:51Z" description="Verify Logo to reload" finished-at="2020-05-19T21:42:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_briozing_logo_reload]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_briozing_logo_reload -->
+        <test-method status="PASS" signature="verify_clients_DL()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_DL" duration-ms="13656" started-at="2020-05-19T21:42:03Z" description="Verify DL client" finished-at="2020-05-19T21:42:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_clients_DL]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_clients_DL -->
+        <test-method status="PASS" signature="verify_clients_a4technologies()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_a4technologies" duration-ms="8237" started-at="2020-05-19T21:42:17Z" description="Verify A4 Technologies client" finished-at="2020-05-19T21:42:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_clients_a4technologies]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_clients_a4technologies -->
+        <test-method status="PASS" signature="verify_clients_cybrella()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_cybrella" duration-ms="15424" started-at="2020-05-19T21:42:25Z" description="Verify Cybrella client" finished-at="2020-05-19T21:42:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_clients_cybrella]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_clients_cybrella -->
+        <test-method status="PASS" signature="verify_clients_quickheal()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_quickheal" duration-ms="8401" started-at="2020-05-19T21:42:41Z" description="Verify Quickheal client" finished-at="2020-05-19T21:42:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_clients_quickheal]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_clients_quickheal -->
+        <test-method status="PASS" signature="verify_clients_sapience()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_sapience" duration-ms="10834" started-at="2020-05-19T21:42:49Z" description="Verify Sapience client" finished-at="2020-05-19T21:43:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_clients_sapience]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_clients_sapience -->
+        <test-method status="PASS" signature="verify_clients_vuclips()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_clients_vuclips" duration-ms="56280" started-at="2020-05-19T21:43:00Z" description="Verify VUclips client" finished-at="2020-05-19T21:43:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_clients_vuclips]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_clients_vuclips -->
+        <test-method status="PASS" signature="verify_connection_with_us()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us" duration-ms="10386" started-at="2020-05-19T21:43:56Z" description="Verify connection with us" finished-at="2020-05-19T21:44:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_connection_with_us]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_connection_with_us -->
+        <test-method status="PASS" signature="verify_connection_with_us_Message()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_Message" duration-ms="8301" started-at="2020-05-19T21:44:07Z" description="Verify Message" finished-at="2020-05-19T21:44:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_connection_with_us_Message]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_connection_with_us_Message -->
+        <test-method status="PASS" signature="verify_connection_with_us_PhoneNumber()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_PhoneNumber" duration-ms="8979" started-at="2020-05-19T21:44:15Z" description="Verify Phone number" finished-at="2020-05-19T21:44:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_connection_with_us_PhoneNumber]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_connection_with_us_PhoneNumber -->
+        <test-method status="PASS" signature="verify_connection_with_us_Submit()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_Submit" duration-ms="10985" started-at="2020-05-19T21:44:24Z" description="Verify Submit button" finished-at="2020-05-19T21:44:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_connection_with_us_Submit]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_connection_with_us_Submit -->
+        <test-method status="PASS" signature="verify_connection_with_us_email()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_email" duration-ms="11723" started-at="2020-05-19T21:44:35Z" description="Verify Email" finished-at="2020-05-19T21:44:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_connection_with_us_email]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_connection_with_us_email -->
+        <test-method status="PASS" signature="verify_connection_with_us_name()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name" duration-ms="10079" started-at="2020-05-19T21:44:47Z" description="Verify Name" finished-at="2020-05-19T21:44:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_connection_with_us_name]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_connection_with_us_name -->
+        <test-method status="PASS" signature="verify_connection_with_us_name_first()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name_first" duration-ms="9274" started-at="2020-05-19T21:44:57Z" description="Verify First Name" finished-at="2020-05-19T21:45:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_connection_with_us_name_first]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_connection_with_us_name_first -->
+        <test-method status="PASS" signature="verify_connection_with_us_name_last()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_connection_with_us_name_last" duration-ms="8397" started-at="2020-05-19T21:45:06Z" description="Verify Last Name" finished-at="2020-05-19T21:45:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_connection_with_us_name_last]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_connection_with_us_name_last -->
+        <test-method status="PASS" signature="verify_devops_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_devops_logo" duration-ms="10832" started-at="2020-05-19T21:45:14Z" description="Verify Devops logo" finished-at="2020-05-19T21:45:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_devops_logo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_devops_logo -->
+        <test-method status="PASS" signature="verify_get_started_button()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_get_started_button" duration-ms="8993" started-at="2020-05-19T21:45:25Z" description="Verify get started button" finished-at="2020-05-19T21:45:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_get_started_button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_get_started_button -->
+        <test-method status="PASS" signature="verify_homepage_arrowdown_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_homepage_arrowdown_logo" duration-ms="9638" started-at="2020-05-19T21:45:34Z" description="Verify Arrow down logo" finished-at="2020-05-19T21:45:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_homepage_arrowdown_logo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_homepage_arrowdown_logo -->
+        <test-method status="PASS" signature="verify_homepage_arrowdown_motion()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_homepage_arrowdown_motion" duration-ms="9209" started-at="2020-05-19T21:45:44Z" description="Verify arrow down motion" finished-at="2020-05-19T21:45:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_homepage_arrowdown_motion]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_homepage_arrowdown_motion -->
+        <test-method status="PASS" signature="verify_pagescrolling_Blog()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Blog" duration-ms="7419" started-at="2020-05-19T21:45:53Z" description="Verify page scrolling to blog" finished-at="2020-05-19T21:46:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_pagescrolling_Blog]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_pagescrolling_Blog -->
+        <test-method status="PASS" signature="verify_pagescrolling_Cta()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Cta" duration-ms="10080" started-at="2020-05-19T21:46:01Z" description="Verify Page scrolling to cta" finished-at="2020-05-19T21:46:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_pagescrolling_Cta]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_pagescrolling_Cta -->
+        <test-method status="PASS" signature="verify_pagescrolling_Team()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_Team" duration-ms="12886" started-at="2020-05-19T21:46:11Z" description="Verify Page scrolling to team" finished-at="2020-05-19T21:46:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_pagescrolling_Team]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_pagescrolling_Team -->
+        <test-method status="PASS" signature="verify_pagescrolling_about()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_about" duration-ms="15362" started-at="2020-05-19T21:46:24Z" description="Verify Page scrolling to about" finished-at="2020-05-19T21:46:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_pagescrolling_about]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_pagescrolling_about -->
+        <test-method status="PASS" signature="verify_pagescrolling_clients()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_clients" duration-ms="9235" started-at="2020-05-19T21:46:39Z" description="Verify Page is scrolling to clients" finished-at="2020-05-19T21:46:48Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_pagescrolling_clients]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_pagescrolling_clients -->
+        <test-method status="PASS" signature="verify_pagescrolling_core()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_core" duration-ms="7615" started-at="2020-05-19T21:46:48Z" description="Verify Page scrolling to core" finished-at="2020-05-19T21:46:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_pagescrolling_core]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_pagescrolling_core -->
+        <test-method status="PASS" signature="verify_pagescrolling_features()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_features" duration-ms="11323" started-at="2020-05-19T21:46:56Z" description="Verify Page scrolling to features" finished-at="2020-05-19T21:47:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_pagescrolling_features]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_pagescrolling_features -->
+        <test-method status="PASS" signature="verify_pagescrolling_top()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_pagescrolling_top" duration-ms="13558" started-at="2020-05-19T21:47:07Z" description="Verify Page is scrolling to top" finished-at="2020-05-19T21:47:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_pagescrolling_top]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_pagescrolling_top -->
+        <test-method status="PASS" signature="verify_product_architecture_logo()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="verify_product_architecture_logo" duration-ms="12891" started-at="2020-05-19T21:47:21Z" description="Verify Product architechture logo" finished-at="2020-05-19T21:47:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[END TEST : verify_product_architecture_logo]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verify_product_architecture_logo -->
+        <test-method status="PASS" signature="closeDriverObjects()[pri:0, instance:com.briozing.automation.suites.UITests@61832929]" name="closeDriverObjects" is-config="true" duration-ms="136" started-at="2020-05-19T21:47:34Z" finished-at="2020-05-19T21:47:34Z">
           <reporter-output>
             <line>
               <![CDATA[END TEST : closeDriverObjects]]>

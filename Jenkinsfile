@@ -2,8 +2,8 @@ pipeline {
    agent any
    parameters{
    choice(
-   name:'SeleniumTests',
-   choices:"Home_Page\nBlog_page",
+   name:'groups',
+   choices:"homePage\nblogPage",
    description:"Choose test page to build"
 
    )
@@ -20,23 +20,23 @@ pipeline {
 
        stage('Compile') {
          steps {
-           sh 'mvn clean package'
+           sh 'mvn clean compile'
             echo 'Compilation done'
 
          }
        }
 
-         stage('Checkout Test') {
-         steps {
-         git branch:'master', credentialsId: 'GIT_HUB_CREDENTIALS', url: 'https://github.com/mcool8180/Selenium_test_cases.git'
-         echo 'Checkout Test Done'
-         }
-       }
+//          stage('Checkout Test') {
+//          steps {
+//          git branch:'master', credentialsId: 'GIT_HUB_CREDENTIALS', url: 'https://github.com/mcool8180/Selenium_test_cases.git'
+//          echo 'Checkout Test Done'
+//          }
+//        }
 
 
       stage('Test') {
          steps {
-            sh 'mvn clean test -Dgroups=Home_page'
+            sh "mvn clean test -Dgroups=${params.groups}"
             echo 'Test case passed successfully'
 
          }

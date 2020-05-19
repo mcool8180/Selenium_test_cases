@@ -9,7 +9,7 @@
     </method-selectors>
     <groups>
       <run>
-        <include name="Briozing48"/>
+        <include name="Home_Page"/>
       </run>
     </groups>
     <classes>
