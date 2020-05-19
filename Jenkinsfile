@@ -1,13 +1,20 @@
 pipeline {
    agent any
+   parameters{
+   choice(
+   name:'SeleniumTests',
+   choices:"Home_Page\nBlog_page",
+   description:"Choose test page to build"
+
+   )
+
+   }
    stages {
         stage('Checkout') {
           steps {
-
+            echo 'Automation pipeline started'
             git branch:'master', credentialsId: 'GIT_HUB_CREDENTIALS', url: 'https://github.com/mcool8180/Selenium_test_cases.git'
-
-
-        echo 'Checkout Done'
+            echo 'Checkout Done'
         }
       }
 
@@ -29,7 +36,7 @@ pipeline {
 
       stage('Test') {
          steps {
-            sh 'mvn clean test -Dgroups='
+            sh 'mvn clean test -Dgroups=Home_page'
             echo 'Test case passed successfully'
 
          }
@@ -38,3 +45,73 @@ pipeline {
    }
 
    }
+   // node('windows-agent') {
+   //     try {
+   //
+   //         stage("Initialize") {
+   //             cleanWs()
+   //         }
+   //
+   //         stage("Checkout") {
+   //             checkoutRepository()
+   //         }
+   //
+   //         stage('Build and Test') {
+   //             runAutomationTest()
+   //         }
+   //
+   //         stage('Publish Results') {
+   //             publishResults()
+   //         }
+   //
+   //     } catch (err) {
+   //         echo "$err"
+   //         currentBuild.result = 'FAILURE'
+   //         throw err
+   //     } finally {
+   //         if (currentBuild.result == 'FAILURE' || currentBuild.result == 'UNSTABLE') {
+   //             currentBuild.result = 'FAILURE'
+   //         } else {
+   //             currentBuild.result = 'SUCCESS'
+   //         }
+   //     }
+   // }
+   //
+   // def checkoutRepository() {
+   //
+   //     repoUrl = "https://sapience-analytics@dev.azure.com/sapience-analytics/Sapience%20Analytics%20-%20Next%20Gen/_git/ngp-ui-automation"
+   //     targetDir = "ngp-ui-automation"
+   //     branchName = "master"
+   //
+   //     checkout([$class                           : 'GitSCM',
+   //               branches                         : [[name: branchName]],
+   //               doGenerateSubmoduleConfigurations: false,
+   //               extensions                       : [[$class           : 'RelativeTargetDirectory',
+   //                                                    relativeTargetDir: targetDir]],
+   //               submoduleCfg                     : [],
+   //               userRemoteConfigs                : [[credentialsId: 'azure_devops_credentials', url: repoUrl]]
+   //     ])
+   //
+   // }
+   //
+   // def runAutomationTest() {
+   //     dir('ngp-ui-automation') {
+   //         withMaven() {
+   //             bat "mvn clean test -DexecutionOn=qaint -Pklov"
+   //         }
+   //     }
+   // }
+   //
+   // def publishResults() {
+   //     dir('ngp-ui-automation') {
+   //
+   //         publishHTML([allowMissing: true,
+   //                      alwaysLinkToLastBuild: true,
+   //                      keepAll: true,
+   //                      reportDir: '',
+   //                      reportFiles: 'target/HtmlReport/ExtentHtml.html',
+   //                      reportName: 'Test Summary',
+   //                      reportTitles: 'Test Summary'
+   //         ])
+   //     }
+   // }
