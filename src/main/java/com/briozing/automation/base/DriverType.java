@@ -27,7 +27,11 @@ public enum DriverType implements DriverSetup {
                 ChromeDriverService service = new ChromeDriverService.Builder()
                         .usingAnyFreePort()
                         .build();
-                ChromeOptions options = new ChromeOptions();
+                ChromeOptions options = new ChromeOptions(); // here we merge capabilities..
+                options.addArguments("--no-sandbox");
+                options.addArguments("--headless"); //!!!should be enabled for Jenkins
+                options.addArguments("--disable-dev-shm-usage"); //!!!should be enabled for Jenkins
+                options.addArguments("--window-size=1920x1080"); //!!!should be enabled for Jenkins
                 options.merge(capabilities);
                 return new ChromeDriver(service, options);
             } catch (Exception ex) {
